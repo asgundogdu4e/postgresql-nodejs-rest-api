@@ -1,0 +1,11 @@
+{
+  "name": "postgres-node-rest-api",
+  "version": "1.0.0",
+  "description": "PostgreSQL, Node.js(Express) kullanarak RESTful API yapımı. PostgreSQL, RESTful API construction using Node.js (Express).",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
