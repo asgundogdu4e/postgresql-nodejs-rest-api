@@ -48,4 +48,4 @@ Put için örnek veri.
 
 # Görüntüler
 
-![Insomnia Ekran Görüntüsü](Insomnia-pg-nodejs.png "Title")
+![Insomnia Ekran Görüntüsü](evrak/insomnia-pg-nodejs.png "Title")
